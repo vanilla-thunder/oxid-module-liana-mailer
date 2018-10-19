@@ -1,0 +1,1 @@
+# Liana Mailer Integration for OXID eShop
