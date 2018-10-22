@@ -1,0 +1,31 @@
+{
+  "name": "liana-mailer",
+  "version": "0.1.0",
+  "description": "liana mailer integration for oxid eshop",
+  "author": "Marat Bedoev",
+  "email": "oxid@bestlife.ag",
+  "vendor": "bla",
+  "company": "bestlife AG",
+  "url": "https://github.com/vanilla-thunder/oxid-module-liana-mailer",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/vanilla-thunder/oxid-module-liana-mailer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vanilla-thunder/oxid-module-liana-mailer/issues"
+  },
+  "keywords": [
+    "liana mailer",
+    "oxid"
+  ],
+  "dependencies": {
+    "fs-extra": "*",
+    "replace": "*"
+  },
+  "scripts": {
+    "init": "node scripts.js init",
+    "build": "node scripts.js build",
+    "publish": "node scripts.js publish"
+  }
+}
