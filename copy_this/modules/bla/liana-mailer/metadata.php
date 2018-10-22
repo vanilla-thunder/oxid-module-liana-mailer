@@ -1,7 +1,7 @@
 <?php
 
 /**
- *   liana-mailer
+ *  liana-mailer
  *  Copyright (C) 2018  bestlife AG
  *  info:  oxid@bestlife.ag
  *
@@ -25,7 +25,7 @@ $aModule = [
 	'title'       => '<strong style="color:#95b900;font-size:125%;">best</strong><strong style="color:#c4ca77;font-size:125%;">life</strong> <strong>liana-mailer integration</strong>',
 	'description' => 'liana mailer integration for oxid eshop',
 	'thumbnail'   => '../bestlife.png',
-	'version'     => '0.1.0 ( 2018-10-19 )',
+	'version'     => '0.1.0 ( 2018-10-22 )',
 	'author'      => 'Marat Bedoev, bestlife AG',
 	'email'       => 'oxid@bestlife.ag',
 	'url'         => 'https://github.com/vanilla-thunder/oxid-module-liana-mailer',
