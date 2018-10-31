@@ -1,7 +1,5 @@
-## liana-mailer  
-liana mailer integration for oxid eshop
-https://github.com/vanilla-thunder/oxid-module-liana-mailer
-### module version 0.1.0 ( 2018-10-22 )
+## [bla] liana-mailer - liana mailer integration for OXID eShop v4.10
+version 0.1.0 ( 2018-10-31 )
 
 ## Funktionsweise:
 Newsletter-Anmeldungen im Shop werden komplett deaktiviert und stattdessen über API zu Liana weitergeleitet.  
@@ -15,7 +13,7 @@ Alternativ kann der Kunde sich immer beim Shopbetreiber melden und dieser sperrt
 * Views aktualisieren
 
 ### LICENSE AGREEMENT
-   liana-mailer  
+   [bla] liana-mailer - liana mailer integration for OXID eShop v4.10
    Copyright (C) 2018 bestlife AG  
    info:  oxid@bestlife.ag  
   
