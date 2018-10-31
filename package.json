@@ -1,7 +1,7 @@
 {
   "name": "liana-mailer",
   "version": "0.1.0",
-  "description": "liana mailer integration for oxid eshop",
+  "description": "liana mailer integration for OXID eShop v4.10",
   "author": "Marat Bedoev",
   "email": "oxid@bestlife.ag",
   "vendor": "bla",
@@ -10,7 +10,7 @@
   "license": "GPL-3.0",
   "repository": {
     "type": "git",
-    "url": "git@github.com/vanilla-thunder/oxid-module-liana-mailer.git"
+    "url": "https://github.com/vanilla-thunder/oxid-module-liana-mailer.git"
   },
   "bugs": {
     "url": "https://github.com/vanilla-thunder/oxid-module-liana-mailer/issues"

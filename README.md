@@ -1,7 +1,5 @@
-## ___NAME___  
-___DESCRIPTION___
-___URL___
-### module version ___VERSION___
+## [___VENDOR___] ___NAME___ - ___DESCRIPTION___
+version ___VERSION___
 
 ## Funktionsweise:
 Newsletter-Anmeldungen im Shop werden komplett deaktiviert und stattdessen über API zu Liana weitergeleitet.  
@@ -15,7 +13,7 @@ Alternativ kann der Kunde sich immer beim Shopbetreiber melden und dieser sperrt
 * Views aktualisieren
 
 ### LICENSE AGREEMENT
-   ___NAME___  
+   [___VENDOR___] ___NAME___ - ___DESCRIPTION___  
    Copyright (C) ___YEAR___ ___COMPANY___  
    info:  ___EMAIL___  
   
