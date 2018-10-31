@@ -13,7 +13,7 @@ Alternativ kann der Kunde sich immer beim Shopbetreiber melden und dieser sperrt
 * Views aktualisieren
 
 ### LICENSE AGREEMENT
-   [bla] liana-mailer - liana mailer integration for OXID eShop v4.10
+   [bla] liana-mailer - liana mailer integration for OXID eShop v4.10  
    Copyright (C) 2018 bestlife AG  
    info:  oxid@bestlife.ag  
   
